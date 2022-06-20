@@ -1,1 +1,1 @@
-print"mayday"
+print("mayday")
