@@ -1,1 +1,1 @@
-print "mayday yo"
+print("mayday yo")
